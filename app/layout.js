@@ -1,4 +1,4 @@
-export const metadata = { title: 'Railpack Next.js Demo v2-CACHETEST' };
+export const metadata = { title: 'Railpack Next.js Demo' };
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
